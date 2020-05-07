@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\иван афанасьев\documents\visual studio 2015\projects\projects (1)\tictactoe 3x3\tictactoe 3x3\source.cpp(123): warning C4715: 'negamax': not all control paths return a value
+  tictactoe 3x3.vcxproj -> C:\Users\Иван Афанасьев\Documents\Visual Studio 2015\Projects\Projects (1)\tictactoe 3x3\Debug\tictactoe 3x3.exe
+  tictactoe 3x3.vcxproj -> C:\Users\Иван Афанасьев\Documents\Visual Studio 2015\Projects\Projects (1)\tictactoe 3x3\Debug\tictactoe 3x3.pdb (Partial PDB)
